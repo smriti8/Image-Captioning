@@ -1,0 +1,3 @@
+Implemented attention network using LSTM to caption images where image features were extracted from VGGNet 19 caffemodel.
+
+Tools used : Python, Tensorflow Library , Caffe
